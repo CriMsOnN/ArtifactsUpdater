@@ -1,0 +1,4 @@
+{
+  "artifacts_windows": "https://changelogs-live.fivem.net/api/changelog/versions/win32/server",
+  "artifacts_linux": "https://changelogs-live.fivem.net/api/changelog/versions/linux/server"
+}
